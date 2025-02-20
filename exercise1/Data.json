@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Alice Johnson",
+        "dob": "1990-05-15",
+        "country_of_birth": "United Kingdom"
+    },
+    {
+        "name": "Bob Smith",
+        "dob": "1985-08-22",
+        "country_of_birth": "Spain"
+    },
+    {
+        "name": "Alice Johnson",
+        "dob": "1990-05-15",
+        "country_of_birth": "United Kingdom"
+    },
+    {
+        "name": "Charlie Brown",
+        "dob": "2000-03-10",
+        "country_of_birth": "USA"
+    }
+]
+
